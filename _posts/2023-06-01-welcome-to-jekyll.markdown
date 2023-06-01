@@ -22,6 +22,14 @@ Configuration file: /home/shizuku/5h1zuk.github.io/_config.yml
   Server running... press ctrl-c to stop.
 {% endhighlight %}
 
+こんにちわ
+
+
+```
+aaa
+```
+
+
 ブログシステムはjekyllを使用して構築しています。
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
