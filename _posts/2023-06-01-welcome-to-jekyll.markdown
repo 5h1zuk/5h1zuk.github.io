@@ -7,7 +7,7 @@ categories: jekyll update
 
 本ブログに投稿する前には以下のコマンドで確認を行っています。
 
-{% highlight bash %}
+```
 ┌──(shizuku🌙tsukuyomi)-[~/5h1zuk.github.io]
 └─$ jekyll serve
 Configuration file: /home/shizuku/5h1zuk.github.io/_config.yml
@@ -20,14 +20,8 @@ Configuration file: /home/shizuku/5h1zuk.github.io/_config.yml
  Auto-regeneration: enabled for '/home/shizuku/5h1zuk.github.io'
     Server address: http://127.0.0.1:4000/
   Server running... press ctrl-c to stop.
-{% endhighlight %}
-
-こんにちわ
-
-
 ```
-aaa
-```
+
 
 
 ブログシステムはjekyllを使用して構築しています。

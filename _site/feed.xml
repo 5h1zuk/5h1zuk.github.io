@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-01T15:42:47+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">しずくのブログ</title><subtitle>個人的な技術ブログです。</subtitle><entry><title type="html">しずくのブログへようこそ！</title><link href="http://localhost:4000/jekyll/update/2023/06/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="しずくのブログへようこそ！" /><published>2023-06-01T14:48:39+09:00</published><updated>2023-06-01T14:48:39+09:00</updated><id>http://localhost:4000/jekyll/update/2023/06/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/01/welcome-to-jekyll.html"><![CDATA[<p>本ブログに投稿する前には以下のコマンドで確認を行っています。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-01T15:44:18+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">しずくのブログ</title><subtitle>個人的な技術ブログです。</subtitle><entry><title type="html">しずくのブログへようこそ！</title><link href="http://localhost:4000/jekyll/update/2023/06/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="しずくのブログへようこそ！" /><published>2023-06-01T14:48:39+09:00</published><updated>2023-06-01T14:48:39+09:00</updated><id>http://localhost:4000/jekyll/update/2023/06/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/06/01/welcome-to-jekyll.html"><![CDATA[<p>本ブログに投稿する前には以下のコマンドで確認を行っています。</p>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash">┌──<span class="o">(</span>shizuku🌙tsukuyomi<span class="o">)</span>-[~/5h1zuk.github.io]
-└─<span class="nv">$ </span>jekyll serve
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>┌──(shizuku🌙tsukuyomi)-[~/5h1zuk.github.io]
+└─$ jekyll serve
 Configuration file: /home/shizuku/5h1zuk.github.io/_config.yml
             Source: /home/shizuku/5h1zuk.github.io
        Destination: /home/shizuku/5h1zuk.github.io/_site
- Incremental build: disabled. Enable with <span class="nt">--incremental</span>
+ Incremental build: disabled. Enable with --incremental
       Generating... 
-       Jekyll Feed: Generating feed <span class="k">for </span>posts
-                    <span class="k">done in </span>0.283 seconds.
- Auto-regeneration: enabled <span class="k">for</span> <span class="s1">'/home/shizuku/5h1zuk.github.io'</span>
+       Jekyll Feed: Generating feed for posts
+                    done in 0.283 seconds.
+ Auto-regeneration: enabled for '/home/shizuku/5h1zuk.github.io'
     Server address: http://127.0.0.1:4000/
-  Server running... press ctrl-c to stop.</code></pre></figure>
-
-<p>こんにちわ</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>aaa
+  Server running... press ctrl-c to stop.
 </code></pre></div></div>
 
 <p>ブログシステムはjekyllを使用して構築しています。</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[本ブログに投稿する前には以下のコマンドで確認を行っています。]]></summary></entry></feed>
